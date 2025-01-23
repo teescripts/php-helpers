@@ -1,0 +1,19 @@
+{
+    "name": "teescripts/helpers",
+    "description": "This is a collection of PHP helper functions.",
+    "type": "library",
+    "license": "mit",
+    "autoload": {
+        "psr-4": {
+            "Teescripts\\Helpers\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Teescripts",
+            "email": "teescripts@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
